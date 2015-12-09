@@ -1,0 +1,8 @@
+/bin/config/settings.ini
+/bin/config/serverconfig.conf
+
+/bin/Apache/2.4.17/logs/*
+/bin/var/*
+
+/vhosts/*
+/www/*
