@@ -14,6 +14,20 @@
 
 ---
 
+## 1.2.2 (18-01-2015)
+
+*   Bugfixes for new style (1.2.0)
+*   Maximize/Minimize functionality
+
+---
+
+## 1.2.1 (12-01-2015)
+
+*   Themes fully implemented
+*   Forms with the console are now resizable
+
+---
+
 ## 1.2.0 (18-12-2015)
 
 *	MenPro style overhaul
