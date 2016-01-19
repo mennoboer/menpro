@@ -68,7 +68,7 @@ The suite contains the following features;
 
 ---
 
-## 1.2.3 (?)
+## 1.2.3 (19-01-2016)
 
 *   Icons added for MenPro-DNS and MenPro-SMTP
 *   Icons added to main menu
