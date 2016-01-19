@@ -1,3 +1,57 @@
+# MenPro
+MenPro is a full-featured free webserver-suite. Set-up in a few clicks and easy to use.
+The most important feature of MenPro is being able to get a working webserver in a few clicks. No settings to set, and ready as-is.
+
+![MenPro](<http://d.pr/i/1iCsP+>)
+
+The suite contains the following features; 
+
+#### Webserver 
+###### Apache
+    Versions included;
+      - 2.4.17
+    
+###### PHP
+    Easy to switch versions in 1 click
+    Versions included;
+      - 5.4.45
+      - 5.5.30
+      - 5.6.14
+      - 7.0.0
+
+###### Vhosts management 
+    Add new vhosts 
+    Set a different PHP version for each vhost (optional) 
+    Add servername and serveraliasses to DNS server
+    
+![Vhost management](<http://d.pr/i/1kfUA+>)
+    
+###### SSL 
+    Generate Root Authority 
+    Generate certificates from Root Authority 
+    
+###### Process Management 
+    View all running PHP processes 
+    Kill (all) PHP processes
+    
+#### DNS 
+    Add DNS zones
+    Add DNS records 
+    A-records
+    CName-records
+
+![DNS Management](<http://d.pr/i/10bqU+>)
+
+![MenPro-DNS](<http://d.pr/i/162rc+>)
+    
+#### SMTP & POP3 
+    Send e-mail to the SMTP server on port 25 
+    Retrieve e-mail through the POP3 server on port 110 
+
+![MenPro-SMTP](<http://d.pr/i/1aLgM+>)
+
+---
+
 # MenPro Changelog
 
 ## Future Plans
@@ -11,6 +65,19 @@
 *   Seperate php.exe for using PHP in CLI applications
 *   Cron functionality
 *   Enable/disable Apache modules
+
+---
+
+## 1.2.3 (?)
+
+*   Icons added for MenPro-DNS and MenPro-SMTP
+*   Icons added to main menu
+*   Icons added to all forms
+*   Status icons added to main menu (Services)
+*   Updated README.md
+*   Padding in MenProTreeView changed
+*   Fixed DNS records being deleted if the checkbox was not checked
+*   Search bar cancel icon fixed (had a white background)
 
 ---
 
