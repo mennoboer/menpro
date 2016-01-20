@@ -68,7 +68,14 @@ The suite contains the following features;
 
 ---
 
-## 1.2.3 (19-01-2016)
+#### 1.2.4 (22-01-2016)
+
+*   MenPro-DNS will find the longest match when using a wildcard instead of the first match, e.g. *.test.nl will have a lower priority than *.sub.test.nl on matching
+*   Bug: MenPro crashes when adding a new vhost
+
+---
+
+#### 1.2.3 (19-01-2016)
 
 *   Icons added for MenPro-DNS and MenPro-SMTP
 *   Icons added to main menu
@@ -81,27 +88,27 @@ The suite contains the following features;
 
 ---
 
-## 1.2.2 (18-01-2015)
+#### 1.2.2 (18-01-2015)
 
 *   Bugfixes for new style (1.2.0)
 *   Maximize/Minimize functionality
 
 ---
 
-## 1.2.1 (12-01-2015)
+#### 1.2.1 (12-01-2015)
 
 *   Themes fully implemented
 *   Forms with the console are now resizable
 
 ---
 
-## 1.2.0 (18-12-2015)
+#### 1.2.0 (18-12-2015)
 
 *	MenPro style overhaul
 
 ---
 
-## 1.1.1 (06-12-2015)
+#### 1.1.1 (06-12-2015)
 
 *   Added items to Services menu
     *   Start all
@@ -110,7 +117,7 @@ The suite contains the following features;
 
 ---
 
-## 1.1.0 (04-12-2015)
+#### 1.1.0 (04-12-2015)
 
 *   SMTP & POP3 server added
     *   Send e-mail through SMTP to localhost
@@ -130,7 +137,7 @@ The suite contains the following features;
 
 ---
 
-## 1.0.9 (30-11-2015)
+#### 1.0.9 (30-11-2015)
 
 *   MenPro-DNS debug format changed
 *   Various data validations to prevent exceptions
@@ -143,7 +150,7 @@ The suite contains the following features;
 
 ---
 
-## 1.0.8 (24-11-2015)
+#### 1.0.8 (24-11-2015)
 
 *   DNS management
     *   Add DNS zones
@@ -156,7 +163,7 @@ The suite contains the following features;
 
 ---
 
-## 1.0.7 (20-11-2015)
+#### 1.0.7 (20-11-2015)
 
 *   DNS Server
     *   Seperate server (application)
@@ -172,7 +179,7 @@ The suite contains the following features;
 
 ---
 
-## 1.0.6 (16-11-2015)
+#### 1.0.6 (16-11-2015)
 
 *   Beter vhost management (with folders)
     *   Add folders
@@ -182,7 +189,7 @@ The suite contains the following features;
 
 ---
 
-## 1.0.5 (09-11-2015)
+#### 1.0.5 (09-11-2015)
 
 *   Vhosts: SSL - full functionality
     *   Generate CA Certificate
@@ -191,7 +198,7 @@ The suite contains the following features;
 
 ---
 
-## 1.0.4 (02-11-2015)
+#### 1.0.4 (02-11-2015)
 
 *   FolderBrowserDialog scrolls to selected location
 *   Full vhosts Directory functionality
