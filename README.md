@@ -57,7 +57,6 @@ The suite contains the following features;
 ## Future Plans
 
 *   php.ini management
-*   More (personal)settings
 *   Export/import websites (with settings)
 *   Contextmenu for consoles
 *   Manage PHP & Apache versions
@@ -68,7 +67,15 @@ The suite contains the following features;
 
 ---
 
-#### 1.2.4 (22-01-2016)
+#### 1.2.5 (22-01-2016)
+
+*   Bug: When no DNS-zones have been added, datagrid is visible and throws an exception
+*   PHP for CLI with easy-to-switch versions using php -v [index] (use "php" command to list available versions)
+*   Enlarged confirm- and textdialogs
+
+---
+
+#### 1.2.4 (20-01-2016)
 
 *   MenPro-DNS will find the longest match when using a wildcard instead of the first match, e.g. *.test.nl will have a lower priority than *.sub.test.nl on matching
 *   Bug: MenPro crashes when adding a new vhost
