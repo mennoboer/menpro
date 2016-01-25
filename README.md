@@ -18,6 +18,8 @@ The suite contains the following features;
       - 5.5.30
       - 5.6.14
       - 7.0.0
+      
+![MenPro-PHP](<http://d.pr/i/T78z+>)
 
 ###### Vhosts management 
     Add new vhosts 
@@ -61,9 +63,17 @@ The suite contains the following features;
 *   Contextmenu for consoles
 *   Manage PHP & Apache versions
     *   Download from remote server (install/delete)
-*   Seperate php.exe for using PHP in CLI applications
 *   Cron functionality
 *   Enable/disable Apache modules
+
+---
+
+#### 1.2.6 (25-01-2016)
+
+*   Added a tray icon, closing MenPro will not exit the application anymore
+*   The status icons in the main form will now start/stop the servers by clicking them
+*   Made sure the application can only be opened once at the same time
+*   Improvements to MenPro-PHP, now supports input (e.g. composer, artisan)
 
 ---
 
@@ -71,13 +81,13 @@ The suite contains the following features;
 
 *   Bug: When no DNS-zones have been added, datagrid is visible and throws an exception
 *   PHP for CLI with easy-to-switch versions using php -v [index] (use "php" command to list available versions)
-*   Enlarged confirm- and textdialogs
+*   Enlarged confirm- and text-dialogs
 
 ---
 
 #### 1.2.4 (20-01-2016)
 
-*   MenPro-DNS will find the longest match when using a wildcard instead of the first match, e.g. *.test.nl will have a lower priority than *.sub.test.nl on matching
+*   MenPro-DNS will find the longest match when using a wildcard instead of the first match, e.g. *.test.com will have a lower priority than *.sub.test.com when both are matched
 *   Bug: MenPro crashes when adding a new vhost
 
 ---
@@ -90,8 +100,8 @@ The suite contains the following features;
 *   Status icons added to main menu (Services)
 *   Updated README.md
 *   Padding in MenProTreeView changed
-*   Fixed DNS records being deleted if the checkbox was not checked
-*   Search bar cancel icon fixed (had a white background)
+*   Bug: DNS records being deleted if the checkbox was not checked
+*   Bug: Search bar cancel icon fixed (had a white background)
 
 ---
 
