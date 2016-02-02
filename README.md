@@ -2,7 +2,7 @@
 MenPro is a full-featured free webserver-suite. Set-up in a few clicks and easy to use.
 The most important feature of MenPro is being able to get a working webserver in a few clicks. No settings to set, and ready as-is.
 
-![MenPro](<http://d.pr/i/1iCsP+>)
+![MenPro](<http://d.pr/i/18sHi+>)
 
 The suite contains the following features; 
 
@@ -18,6 +18,7 @@ The suite contains the following features;
       - 5.5.30
       - 5.6.14
       - 7.0.0
+    XDebug is installed on all included versions
       
 ![MenPro-PHP](<http://d.pr/i/T78z+>)
 
@@ -38,7 +39,7 @@ The suite contains the following features;
     
 #### DNS 
     Add DNS zones
-    Add DNS records 
+    Add DNS records
     A-records
     CName-records
 
@@ -47,10 +48,16 @@ The suite contains the following features;
 ![MenPro-DNS](<http://d.pr/i/162rc+>)
     
 #### SMTP & POP3 
-    Send e-mail to the SMTP server on port 25 
-    Retrieve e-mail through the POP3 server on port 110 
+    Send e-mail to the SMTP server on port 25
+    Retrieve e-mail through the POP3 server on port 110
 
 ![MenPro-SMTP](<http://d.pr/i/1aLgM+>)
+
+#### Cron
+    Use cronjobs in Windows, anything you can run in CMD can be ran with MenPro-Cron
+    
+![Cron management](<http://d.pr/i/hjtB+>)
+![MenPro-Cron](<http://d.pr/i/1a9Fm+>)
 
 ---
 
@@ -63,8 +70,18 @@ The suite contains the following features;
 *   Contextmenu for consoles
 *   Manage PHP & Apache versions
     *   Download from remote server (install/delete)
-*   Cron functionality
 *   Enable/disable Apache modules
+
+---
+
+#### 1.2.7 (26-01-2016)
+
+*   MenPro-PHP version info moved to 'php -v' instead of 'php', restoring php's normal functionality
+*   Settings for SMTP/POP3 server automatic start on startup
+*   MenPro-Cron: Cronjobs for Windows
+*   Removed the MenPro help file
+*   Changed the 'Help' menu-item to 'About'
+*   Moved 'Theme' menu-item under 'Window'
 
 ---
 
