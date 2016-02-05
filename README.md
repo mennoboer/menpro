@@ -74,7 +74,20 @@ The suite contains the following features;
 
 ---
 
-#### 1.2.7 (26-01-2016)
+#### 1.3.0 (05-02-2015)
+
+*   Bug: When editting a Cron- or DNS-record you had to click on another cell first before saving
+*   Bug: In maximized forms top pixels are not draggable
+*   Bug: In maximized forms the borders still have the resize cursor
+*   Processes window more stable and a bit optimized
+*   Feature: Vhost values in <VirtualHost> and <Directory> that are not in the default form in MenPro are now shown in the "Extra" tab (and will not be removed on saving Vhost)
+*   Menu -> "Start All Services" now includes the Cron server
+*   DNS-TTL minimum set to 60, invalid values or values lower than 60 will result in 60 when saving
+*   Feature: Updater (first test, will be included in a later version)
+
+---
+
+#### 1.2.7 (03-02-2016)
 
 *   MenPro-PHP version info moved to 'php -v' instead of 'php', restoring php's normal functionality
 *   Settings for SMTP/POP3 server automatic start on startup
