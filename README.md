@@ -74,6 +74,12 @@ The suite contains the following features;
 
 ---
 
+#### 1.3.2 (05-02-2015)
+
+*   Feature: Full self-update feature
+
+---
+
 #### 1.3.1 (05-02-2015)
 
 *   Bug: Updater displays wrong version in MenPro

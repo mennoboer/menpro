@@ -4,6 +4,7 @@
 /bin/_apache/2.4.17/logs/*
 /bin/var/*
 /bin/theme/*
+/bin/updater-temp.exe
 
 /vhosts/*
 /www/*
