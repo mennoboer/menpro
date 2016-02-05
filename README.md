@@ -74,6 +74,12 @@ The suite contains the following features;
 
 ---
 
+#### 1.3.1 (05-02-2015)
+
+*   Bug: Updater displays wrong version in MenPro
+
+---
+
 #### 1.3.0 (05-02-2015)
 
 *   Bug: When editting a Cron- or DNS-record you had to click on another cell first before saving
