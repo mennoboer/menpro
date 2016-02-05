@@ -74,6 +74,12 @@ The suite contains the following features;
 
 ---
 
+#### 1.3.3 (05-02-2015)
+
+*   Feature: Check for updates on start-up and every 60 minutes after that
+
+---
+
 #### 1.3.2 (05-02-2015)
 
 *   Feature: Full self-update feature
