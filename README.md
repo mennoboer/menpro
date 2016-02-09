@@ -2,7 +2,7 @@
 MenPro is a full-featured free webserver-suite. Set-up in a few clicks and easy to use.
 The most important feature of MenPro is being able to get a working webserver in a few clicks. No settings to set, and ready as-is.
 
-![MenPro](<http://d.pr/i/18sHi+>)
+![MenPro](<http://d.pr/i/P5HP+>)
 
 The suite contains the following features; 
 
@@ -54,7 +54,7 @@ The suite contains the following features;
 ![MenPro-SMTP](<http://d.pr/i/1aLgM+>)
 
 #### Cron
-    Use cronjobs in Windows, anything you can run in CMD can be ran with MenPro-Cron
+    Use cronjobs in Windows, anything you can run in CMD can be run with MenPro-Cron
     
 ![Cron management](<http://d.pr/i/hjtB+>)
 ![MenPro-Cron](<http://d.pr/i/1a9Fm+>)
@@ -71,6 +71,18 @@ The suite contains the following features;
 *   Manage PHP & Apache versions
     *   Download from remote server (install/delete)
 *   Enable/disable Apache modules
+
+---
+
+#### 1.3.4 (09-02-2015)
+
+*   When saving the Cron a dialog will no longer show up when an expression is invalid, instead the row will be colored red
+*   Feature: Cronjobs can now be enabled/disabled
+*   Feature: Cron schedule now viewable in MenPro (actual schedule from cron-server)
+*   Feature: Cron schedule generator in MenPro (schedule generated on current rules)
+*   The cron server wouldn't start when cronjobs with an invalid expression were added
+*   Bug: The update dialog can be opened more than once at the same time
+*   Bug: Cron server crashes when starting while an instance is already running
 
 ---
 
