@@ -27,7 +27,7 @@ The suite contains the following features;
     Set a different PHP version for each vhost (optional) 
     Add servername and serveraliasses to DNS server
     
-![Vhost management](<http://d.pr/i/1kfUA+>)
+![Vhost management](<http://d.pr/i/1iZjA+>)
     
 ###### SSL 
     Generate Root Authority 
@@ -43,7 +43,7 @@ The suite contains the following features;
     A-records
     CName-records
 
-![DNS Management](<http://d.pr/i/10bqU+>)
+![DNS Management](<http://d.pr/i/1hkp6+>)
 
 ![MenPro-DNS](<http://d.pr/i/162rc+>)
     
@@ -56,7 +56,7 @@ The suite contains the following features;
 #### Cron
     Use cronjobs in Windows, anything you can run in CMD can be run with MenPro-Cron
     
-![Cron management](<http://d.pr/i/hjtB+>)
+![Cron management](<http://d.pr/i/1kcKe+>)
 ![MenPro-Cron](<http://d.pr/i/1a9Fm+>)
 
 ---
@@ -71,6 +71,15 @@ The suite contains the following features;
 *   Manage PHP & Apache versions
     *   Download from remote server (install/delete)
 *   Enable/disable Apache modules
+
+---
+
+#### 1.3.5 (10-02-2015)
+
+*   Bug: var/cron folder was not created on MenPro startup
+*   Icons added to title-bar for all forms with icons
+*   Bug: Updater doesn't show errors but immediately closes
+*   Bug: Root certificate is uninstalled by Windows, automatically check every hour (together with update checks)
 
 ---
 
