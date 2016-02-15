@@ -63,7 +63,7 @@ The suite contains the following features;
 
 # MenPro Changelog
 
-## Future Plans
+#### Future Plans
 
 *   php.ini management
 *   Export/import websites (with settings)
@@ -71,6 +71,21 @@ The suite contains the following features;
 *   Manage PHP & Apache versions
     *   Download from remote server (install/delete)
 *   Enable/disable Apache modules
+
+---
+
+#### TODO / Known issues
+
+*   Better security for SSL certificates
+*   Updater doesn't work without .git repository
+
+---
+
+#### 1.3.6 (12-02-2015)
+
+*   Bug: Update screen doesn't check for updates on opening the form
+*   Feature: Custom Actions menu in tray-icon menu
+*   Improvement: SMTP console messages now include date
 
 ---
 
