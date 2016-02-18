@@ -71,17 +71,28 @@ The suite contains the following features;
 *   Manage PHP & Apache versions
     *   Download from remote server (install/delete)
 *   Enable/disable Apache modules
+*   Place shared code in DLLs
 
 ---
 
 #### TODO / Known issues
 
-*   Better security for SSL certificates
-*   Updater doesn't work without .git repository
+*   Security:    Better security for SSL certificates
+*   Bug:         http-end.conf require-all for drives
 
 ---
 
-#### 1.3.6 (12-02-2015)
+#### 1.3.7 (12-02-2015)
+
+*   Bug: Updater doesn't work without .git repository
+*   Performance: Check which services are running performance improvements
+*   Performance: Global code cleanup
+*   Feature: Notifications (more will be added in later updates)
+*   The way forms are rendered has been changed (required for notifications)
+
+---
+
+#### 1.3.6 (15-02-2015)
 
 *   Bug: Update screen doesn't check for updates on opening the form
 *   Feature: Custom Actions menu in tray-icon menu
