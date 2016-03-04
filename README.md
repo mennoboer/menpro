@@ -82,7 +82,15 @@ The suite contains the following features;
 
 ---
 
-#### 1.3.7 (12-02-2015)
+#### 1.3.8 (04-03-2016)
+
+*   Removed notification when checking for updates (hourly)
+*   Bug: Fixes to UI (white backgrounds for some texts)
+*   Feature: CSR-Generator
+
+---
+
+#### 1.3.7 (12-02-2016)
 
 *   Bug: Updater doesn't work without .git repository
 *   Performance: Check which services are running performance improvements
@@ -92,7 +100,7 @@ The suite contains the following features;
 
 ---
 
-#### 1.3.6 (15-02-2015)
+#### 1.3.6 (15-02-2016)
 
 *   Bug: Update screen doesn't check for updates on opening the form
 *   Feature: Custom Actions menu in tray-icon menu
@@ -100,7 +108,7 @@ The suite contains the following features;
 
 ---
 
-#### 1.3.5 (10-02-2015)
+#### 1.3.5 (10-02-2016)
 
 *   Bug: var/cron folder was not created on MenPro startup
 *   Icons added to title-bar for all forms with icons
@@ -109,7 +117,7 @@ The suite contains the following features;
 
 ---
 
-#### 1.3.4 (09-02-2015)
+#### 1.3.4 (09-02-2016)
 
 *   When saving the Cron a dialog will no longer show up when an expression is invalid, instead the row will be colored red
 *   Feature: Cronjobs can now be enabled/disabled
@@ -121,25 +129,25 @@ The suite contains the following features;
 
 ---
 
-#### 1.3.3 (05-02-2015)
+#### 1.3.3 (05-02-2016)
 
 *   Feature: Check for updates on start-up and every 60 minutes after that
 
 ---
 
-#### 1.3.2 (05-02-2015)
+#### 1.3.2 (05-02-2016)
 
 *   Feature: Full self-update feature
 
 ---
 
-#### 1.3.1 (05-02-2015)
+#### 1.3.1 (05-02-2016)
 
 *   Bug: Updater displays wrong version in MenPro
 
 ---
 
-#### 1.3.0 (05-02-2015)
+#### 1.3.0 (05-02-2016)
 
 *   Bug: When editting a Cron- or DNS-record you had to click on another cell first before saving
 *   Bug: In maximized forms top pixels are not draggable
