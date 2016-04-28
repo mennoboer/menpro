@@ -82,6 +82,14 @@ The suite contains the following features;
 
 ---
 
+#### 1.4.0 (21-04-2016)
+
+*   MySQL included in MenPro
+*   Apache start/stop button not working in menu's
+*   Main form Apache status and start/stop buttons removed
+
+---
+
 #### 1.3.8 (04-03-2016)
 
 *   Removed notification when checking for updates (hourly)

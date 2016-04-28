@@ -1,10 +1,15 @@
 /bin/config/settings.ini
 /bin/config/serverconfig.conf
 
-/bin/_apache/2.4.17/logs/*
+/bin/_apache/*
+/bin/_php/*
+/bin/_mysql/*
 /bin/var/*
 /bin/theme/*
 /bin/updater-temp.exe
 
 /vhosts/*
 /www/*
+
+!/bin/_mysql/start.bat
+!/bin/_apache/start.bat
