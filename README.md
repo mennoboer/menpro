@@ -82,6 +82,12 @@ The suite contains the following features;
 
 ---
 
+#### 1.4.2 (30-05-2016)
+
+*   Bug: php_root not editable anymore, value was missing
+
+---
+
 #### 1.4.1 (30-05-2016)
 
 *   Bug: Clicking UI in version-management only works when clicking the background
