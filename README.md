@@ -80,6 +80,12 @@ The suite contains the following features;
 
 ---
 
+#### 1.4.4 (09-06-2016)
+
+*   Bug: Version for MySQL not saved correctly
+
+---
+
 #### 1.4.3 (09-06-2016)
 
 *   Improvement: Code improvement with fewer bugs and better performance
