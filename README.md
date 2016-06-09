@@ -68,8 +68,6 @@ The suite contains the following features;
 *   php.ini management
 *   Export/import websites (with settings)
 *   Contextmenu for consoles
-*   Manage PHP & Apache versions
-    *   Download from remote server (install/delete)
 *   Enable/disable Apache modules
 *   Place shared code in DLLs
 
@@ -77,8 +75,16 @@ The suite contains the following features;
 
 #### TODO / Known issues
 
-*   Security:    Better security for SSL certificates
-*   Bug:         http-end.conf require-all for drives
+*   Security: Better security for SSL certificates
+*   Bug: http-end.conf require-all for drives
+
+---
+
+#### 1.4.3 (09-06-2016)
+
+*   Improvement: Code improvement with fewer bugs and better performance
+*   Bug: MySQL app now has start/stop buttons in traymenu
+*   Bug: MenPro-PHP missing config (php_root removed in 1.4.2)
 
 ---
 
