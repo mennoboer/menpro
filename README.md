@@ -80,6 +80,17 @@ The suite contains the following features;
 
 ---
 
+#### 1.4.5 (20-06-2016)
+
+*   Improvement: WWW and Vhosts folder cannot be changed anymore, this prevents the necessity of the settings menu to always show on first start
+*   Bug: When starting an app with the status icons, if the application cannot start, the bulb will still turn green and cause problems
+*   Names of the apps are now the same everywhere (traymenu and mainmenu)
+*   Apache debug now only shows the httpd.exe console
+*   Settings menu rebuilt (now automatically generated)
+*   SSL CA certificate is now generated on application start, generating SSL certificates is easier now
+
+---
+
 #### 1.4.4 (09-06-2016)
 
 *   Bug: Version for MySQL not saved correctly
@@ -90,7 +101,7 @@ The suite contains the following features;
 
 *   Improvement: Code improvement with fewer bugs and better performance
 *   Bug: MySQL app now has start/stop buttons in traymenu
-*   Bug: MenPro-PHP missing config (php_root removed in 1.4.2)
+*   Bug: MenPro-PHP missing config (php_root removed in 1.4.0)
 
 ---
 
