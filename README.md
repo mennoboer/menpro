@@ -80,6 +80,17 @@ The suite contains the following features;
 
 ---
 
+#### 1.5.0 (24-06-2016)
+
+*   Console removed from the main form
+*   Vhosts-management Tab added to main form (more tabs coming)
+*   Vhosts-management major fixes and improvements
+*   Removed vhosts-management form and menu-items
+*   Removed themes form, only 1 static theme available from now on
+*   SSL CA certificate now safer with a custom generated passphrase
+
+---
+
 #### 1.4.5 (20-06-2016)
 
 *   Improvement: WWW and Vhosts folder cannot be changed anymore, this prevents the necessity of the settings menu to always show on first start
