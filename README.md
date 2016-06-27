@@ -80,6 +80,18 @@ The suite contains the following features;
 
 ---
 
+#### 1.5.1 (-06-2016)
+
+*   Added: Localhost icon in the Vhost-manager
+*   Modified: All DataGridView's now have the right border color (grid color changed too)
+*   Bug: Attributes in vhosts are case-sensitive
+*   Modified: Vhosts-manager icons are now only visible when they can be used (terminal, explorer and delete)
+*   Modified: Vhosts-manager fieldwidth changed
+*   Remove flickering from tabpages when resizing
+*   Added: Settings does now contain a field to select the default CLI for MenPro
+
+---
+
 #### 1.5.0 (24-06-2016)
 
 *   Console removed from the main form
