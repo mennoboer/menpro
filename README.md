@@ -67,7 +67,6 @@ The suite contains the following features;
 
 *   php.ini management
 *   Export/import websites (with settings)
-*   Contextmenu for consoles
 *   Enable/disable Apache modules
 *   Place shared code in DLLs
 
@@ -75,12 +74,20 @@ The suite contains the following features;
 
 #### TODO / Known issues
 
-*   Security: Better security for SSL certificates
 *   Bug: http-end.conf require-all for drives
 
 ---
 
-#### 1.5.1 (-06-2016)
+#### 1.5.2 (-06-2016)
+
+*   Bug: Edits in DataGridViews in the Vhosts-manager are not committed immediately
+*   Size of the main form is now saved on closing the application, and will be loaded when starting the application
+*   Bug: The datagridview rows in the Vhosts-manager are not selectable with keys, only clickable
+*   Added: Vhosts can now be enabled and disabled
+
+---
+
+#### 1.5.1 (27-06-2016)
 
 *   Added: Localhost icon in the Vhost-manager
 *   Modified: All DataGridView's now have the right border color (grid color changed too)
