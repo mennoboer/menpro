@@ -78,7 +78,15 @@ The suite contains the following features;
 
 ---
 
-#### 1.5.2 (-06-2016)
+#### 1.5.3 (23-09-2016)
+
+*   Bug: Saving a vhost opens the first vhost
+*   Bug: Browsing Document Root does not enable the save & revert button
+*   Added: Colorpicker for Windows
+
+---
+
+#### 1.5.2 (29-06-2016)
 
 *   Bug: Edits in DataGridViews in the Vhosts-manager are not committed immediately
 *   Size of the main form is now saved on closing the application, and will be loaded when starting the application
