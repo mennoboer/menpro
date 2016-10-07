@@ -78,6 +78,13 @@ The suite contains the following features;
 
 ---
 
+#### 1.5.4 (23-09-2016)
+
+*   Bug: Wrong item is selected when searching through vhosts
+*   Added: PHP.ini management tab
+
+---
+
 #### 1.5.3 (23-09-2016)
 
 *   Bug: Saving a vhost opens the first vhost
