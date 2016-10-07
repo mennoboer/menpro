@@ -78,7 +78,14 @@ The suite contains the following features;
 
 ---
 
-#### 1.5.4 (23-09-2016)
+#### 1.5.5 (07-10-2016)
+
+*   Hotfix: Error for new (not ready yet) e-mail client
+*   Bug: PHP.ini manager search is case-sensitive
+
+---
+
+#### 1.5.4 (07-10-2016)
 
 *   Bug: Wrong item is selected when searching through vhosts
 *   Added: PHP.ini management tab
