@@ -78,6 +78,14 @@ The suite contains the following features;
 
 ---
 
+#### 1.5.6 (11-10-2016)
+
+*   Hotfix: On new installation the PHP.ini-manager throws an exception (no PHP installed)
+*   Remove: Console has been removed (no addition)
+*   Added: When a Dialog is shown (have to close before doing anything else), an overlay is shown on the parent form
+
+---
+
 #### 1.5.5 (07-10-2016)
 
 *   Hotfix: Error for new (not ready yet) e-mail client
