@@ -65,16 +65,27 @@ The suite contains the following features;
 
 #### Future Plans
 
-*   php.ini management
 *   Export/import websites (with settings)
 *   Enable/disable Apache modules
 *   Place shared code in DLLs
+*   Add hotkeys to custom actions
+*   Add hotkey to color picker
 
 ---
 
 #### TODO / Known issues
 
 *   Bug: http-end.conf require-all for drives
+*   Double click on non-resizable form still maximizes form
+
+---
+
+#### 1.5.7 (12-10-2016)
+
+*   Improvement: Vhosts form not shown when no vhost selected
+*   Improvement: UI for VersionManagement form
+*   Bug: Double-clicking on title bar will not maximize form unless it's resizable
+*   Added: Colorpicker zoom functionality
 
 ---
 
