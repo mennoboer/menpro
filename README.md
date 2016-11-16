@@ -80,6 +80,12 @@ The suite contains the following features;
 
 ---
 
+#### 1.6.0 (16-10-2016)
+
+*   Added: Custom Actions re-built with more options and key combinations
+
+---
+
 #### 1.5.7 (12-10-2016)
 
 *   Improvement: Vhosts form not shown when no vhost selected
