@@ -68,7 +68,6 @@ The suite contains the following features;
 *   Export/import websites (with settings)
 *   Enable/disable Apache modules
 *   Place shared code in DLLs
-*   Add hotkeys to custom actions
 *   Add hotkey to color picker
 
 ---
@@ -76,11 +75,17 @@ The suite contains the following features;
 #### TODO / Known issues
 
 *   Bug: http-end.conf require-all for drives
-*   Double click on non-resizable form still maximizes form
 
 ---
 
-#### 1.6.0 (16-10-2016)
+#### 1.6.1 (25-11-2016)
+
+*   Added: Custom Action - Truncate Folder
+*   Bug: A lot of bugs in Custom Actions and some Vhosts bugs
+
+---
+
+#### 1.6.0 (16-11-2016)
 
 *   Added: Custom Actions re-built with more options and key combinations
 
