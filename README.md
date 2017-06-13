@@ -18,6 +18,7 @@ The suite contains the following features;
       - 5.5.30
       - 5.6.14
       - 7.0.0
+      - 7.1.0
     XDebug is installed on all included versions
       
 ![MenPro-PHP](<http://d.pr/i/T78z+>)
@@ -75,6 +76,14 @@ The suite contains the following features;
 #### TODO / Known issues
 
 *   Bug: http-end.conf require-all for drives
+
+---
+
+#### 2.0.0 (12-06-2017)
+
+*   Changed: Custom UI removed, now using default windows components (fixing a few bugs)
+*   Improvement: SSL certificates now have the Alternative Subject Name field (works in latest Chrome versions)
+*	Bug: Version management fixes
 
 ---
 
